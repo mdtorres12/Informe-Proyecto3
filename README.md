@@ -1,1 +1,21 @@
 # Informe-Proyecto3
+
+INTEGRANTES:
+
+Guanoluisa Kevin
+
+Torres María
+
+Tumbaco Angely
+
+OBJETIVOS
+
+MARCO TEÓRICO
+
+EXPLICACIÓN DEL PROCEDIMIENTO
+
+VIDEO
+
+CONCLUSIONES
+
+BIBLIOGRAFÍA
