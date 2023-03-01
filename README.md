@@ -19,6 +19,18 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/116812951/221379775-82e62986-0cc8-4f95-b50c-9b5172371a55.png)
 
+Procedimiento:
+
+1. En el protoboard colocamos el circuito integrado con su ranura viendo haciala izquierda.
+2. Hacemos un puente desde la pata 2 a la pata 4
+3. Conectamos la parte positiva del condensador a la pata 5 del circuito integrado y el negatigo hacia otro nodo
+4. Colocamos un cable que salga desde la pata 2 del circuito integrado hacia la pata izquierda del potenciometro
+5. Luego colocamos otro cable que salga de la pata 3 del circuito integrado hacia la parte media del potenciometro
+6. El plug de audio será conectado a la pata 4 del circuito integrado y a la pata derecha del potenciometro
+7. A continuación hacemos un puente que vaya desde la pata 2 del circuito integrado a la parte negativa del circuito y otro desde la pata 6 a la parte positiva del circuito
+8. Colocamos el parlante, una parate a la pata negativa del condensador y el otro a la pata 4 del circuito integrado.
+9. Finalmente, conectamos la batería de 9V.
+
 VIDEO
 
 CONCLUSIONES
