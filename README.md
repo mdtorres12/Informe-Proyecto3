@@ -47,6 +47,10 @@ https://www.youtube.com/watch?v=UySw82OQ9bg&t=1s
 
 CONCLUSIONES
 
+Conocer sobre las partes del circuito que ayuda a crear un amplificador de audio y su funcionamiento. 
+
+Aprender sobre el circuito como usar las sus componentes  y como  funciona sus elementos. 
+
 BIBLIOGRAFÍA
 
 G. J., (2021), INTEGRADO LM386: FUNCIONAMIENTO, CARACTERÍSTICAS Y APLICACIONES, https://amplificadores.info/amplificadores-de-audio/lm386#Aplicaciones-del-LM386
