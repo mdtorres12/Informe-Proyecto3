@@ -18,7 +18,7 @@ OBJETIVOS específicos
 
 Aprender como aplicar lo visto durante la unidad para la creación de un circuito mixto
 
-
+Identificar el funcionamiento de cada componente dentro del circuito, cual es su importante y como ayuda al circuito 
 
 MARCO TEÓRICO
 
