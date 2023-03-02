@@ -10,6 +10,16 @@ Tumbaco Angely
 
 OBJETIVOS
 
+Objetivo general
+
+Crear un amplificador de sonido, apoyándonos en los conocimientos obtenidos durante las clases, con elementos o componentes que se han usado anteriormente. 
+
+OBJETIVOS específicos 
+
+Aprender como aplicar lo visto durante la unidad para la creación de un circuito mixto
+
+
+
 MARCO TEÓRICO
 
 ![1](https://user-images.githubusercontent.com/116812951/222223920-e8c9ab67-d0ba-4d6b-8c23-2e12c6befd4b.png)
